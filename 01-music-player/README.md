@@ -3,9 +3,6 @@
 
 ![Projeto](./.github/player.png)
 
-# Aplicação
-![Aplicação]("https://deluxe-biscochitos-3e415c.netlify.app/");
-
 # Sobre
 
 Projeto proposto pela Rocketseat para treinar habilidades de desenvolvimento web.
